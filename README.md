@@ -13,7 +13,7 @@ Run the Program: Execute the Python script brute_society.py using Python 3.x. Th
 
     git clone https://github.com/Nekolial/BruteSociety.git
     cd BruteSociety
-    python3 brute_society.py
+    python3 BruteSociety.py
 
 
 Contribution
